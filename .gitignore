@@ -1,0 +1,10 @@
+.DS_Store
+query_0.sql
+tmp
+analysis
+*.o
+dsdgen
+dsqgen
+distcomp
+mkheader
+checksum
